@@ -3,7 +3,10 @@
   <img alt="Pokemon Unity Logo" src="https://i.imgur.com/2wzGSbW.png" />
   <h1 align="center">Pokemon Unity by Fidel Castro</h3>
   <p align="center">
-# Down Here 👇👇 Are All The Pokémons Names
+
+<h1 align="center">Down Here 👇👇 Are All The Pokémons Names
+</h3>
+  <p align="center">
 
 Bulbasaur
 
